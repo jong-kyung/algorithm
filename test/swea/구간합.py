@@ -1,3 +1,5 @@
+# 누적합 방식으로 변경
+
 for tc in range(1, int(input()) + 1):
     N, M = map(int, input().split())
     nums = list(map(int, input().split()))
