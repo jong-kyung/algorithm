@@ -1,7 +1,7 @@
 import sys
+from itertools import permutations
 
 input = sys.stdin.readline
-from itertools import permutations
 
 for tc in range(int(input())):
     k = int(input())
